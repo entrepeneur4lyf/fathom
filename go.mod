@@ -17,7 +17,7 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.16
 	github.com/mssola/user_agent v0.5.3
 	github.com/rubenv/sql-migrate v1.2.0
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.1
 	github.com/urfave/cli v1.22.10
 	golang.org/x/crypto v0.3.0
 )
